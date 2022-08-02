@@ -12,3 +12,7 @@
 # Table of Contents #
 
 1. [What is a Growth Mindset](https://mehtab228.github.io/reading-notes/growth-mindset)
+
+2. [Understanding Markdown Syntax](https://mehtab228.github.io/reading-notes/reading1)
+
+
