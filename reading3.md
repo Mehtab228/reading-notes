@@ -14,4 +14,10 @@
 
 -*Tracking Changes*: Every single change applied to any file or directory is tracked by Git
 
+## **acp** ##
 
+-*a*: git add FILE NAME. This adds the files to be tracked and prepare to be commited
+
+-*c*: git commit -m "Changes made". This step commits the chnages you made to the file
+
+-*p*: git push origin main. This step pushes the changes made from your local repository to a remote repository 

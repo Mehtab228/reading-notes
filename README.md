@@ -16,3 +16,5 @@
 2. [Understanding Markdown Syntax](https://mehtab228.github.io/reading-notes/reading1)
 
 3. [The Coder's Computer](https://mehtab228.github.io/reading-notes/reading2)
+
+4. [Git Intro](https://mehtab228.github.io/reading-notes/reading3)
