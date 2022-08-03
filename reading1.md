@@ -10,7 +10,7 @@
 
 ## **Headings and Styling** ##
 
--Use the symbol "#" on both ends of statement to denote a heading. The more "#" adeed the smaller the heading
+-Use the symbol "#" on both ends of statement to denote a heading. The more "#" aded the smaller the heading
 
 -Placing one "*" on both ends of a word or statement results in italics while two results in bolding. Adding three results in both italics and bolding
 
