@@ -15,4 +15,4 @@
 
 2. [Understanding Markdown Syntax](https://mehtab228.github.io/reading-notes/reading1)
 
-
+3. [The Coder's Computer](https://mehtab228.github.io/reading-notes/reading2)
