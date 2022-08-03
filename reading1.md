@@ -1,9 +1,11 @@
 # Understanding Markdown Syntax #
 
-1. **Headings and Emphasis**
+## Overview ##
 
-| Markdown  | Output   |
-| ---       | ---      |
-|   #       | Largest heading     |
-|   ##      | Second Largest heading     |
-**
+-Markup language for formatting text using a plain-text editor
+
+-Way of writing code without HTML
+
+-Uses textual symbols to indicate structure of the page
+
+### Headings and Styling ###
