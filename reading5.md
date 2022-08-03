@@ -12,4 +12,10 @@
 
 ## **CSS modules** ##
 
+-CSS is broken down into modules i.e Backgrounds and Borders
+
+## **CSS specifications** ##
+
+-New CSS features are specified by CSS Working group based on need and user input
+
 -
