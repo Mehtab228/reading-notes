@@ -18,3 +18,7 @@
 3. [The Coder's Computer](https://mehtab228.github.io/reading-notes/reading2)
 
 4. [Git Intro](https://mehtab228.github.io/reading-notes/reading3)
+
+5.
+
+6. [Design Web Pages](https://mehtab228.github.io/reading-notes/reading5)
