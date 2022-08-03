@@ -18,3 +18,15 @@
 
 -To create a link wrap the link text in [] and the url in ()
 
+## *Images* ##
+
+-To place an image you can drag it into the program you are coding on
+
+-You can display an image by adding ! and wrapping the alt text in [ ]. Then wrap the link for the image in parentheses ()
+
+## *Lists* ##
+
+-You can make an unordered list by preceding one or more lines of text with - or *
+
+-To order your list, precede each line with a number
+
