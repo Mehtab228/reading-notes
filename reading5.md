@@ -2,7 +2,7 @@
 
 ## **What is CSS?** ##
 
--Stands for cascading style sheets 
+-Stands for cascading style sheets
 
 -Specifies how documents are presented (How they are styled and laid out)
 
@@ -18,10 +18,8 @@
 
 -New CSS features are specified by CSS Working group based on need and user input
 
--you can also style withing HTML by using a style tag <stlye>
+-you can also style withing HTML by using a style tag < stlye >
 
 -When a property is paired with a value, this pairing is called a CSS declaration
 
--CSS does not read empty spaces, its more for redability 
-
--
+-CSS does not read empty spaces, its more for redability
