@@ -25,3 +25,5 @@
 
 7. [JS Intro](https://mehtab228.github.io/reading-notes/reading6)
 
+8. [Control Flow](https://mehtab228.github.io/reading-notes/reading7)
+
