@@ -22,3 +22,6 @@
 5. [Structure Web Pages with HTML](https://mehtab228.github.io/reading-notes/reading4)
 
 6. [Design Web Pages](https://mehtab228.github.io/reading-notes/reading5)
+
+7. [JS Intro](https://mehtab228.github.io/reading-notes/reading6)
+
