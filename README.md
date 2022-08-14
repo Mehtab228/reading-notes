@@ -9,6 +9,10 @@
 
 **GitHub Portfolio Page:** [github.com/mehtab228](https://github.com/Mehtab228)
 
+## 201 notes for readings ##
+
+[201 Reading Notes](https://mehtab228.github.io/reading-notes/201readingnotes)
+
 # Table of Contents #
 
 1. [What is a Growth Mindset](https://mehtab228.github.io/reading-notes/growth-mindset)
