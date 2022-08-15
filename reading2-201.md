@@ -8,4 +8,8 @@
 
 2. *How many levels of headings are there in HTML?*
 
+-There are a total of 6 heading elements, each element represents a different level of content in the document; <h1> represents the main heading, <h2> represents subheadings, <h3> represents sub-subheadings, and so on
+
+3. *What are some uses for the <sup> and <sub> elements?*
+
 -
