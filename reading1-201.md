@@ -40,6 +40,11 @@
 
 -<section> is similar to <article>, but it is more for grouping together a single part of the page that constitutes one single piece of functionality
 
-*
+*How does metadata influence Search Engine Optimization?*
 
 -Web browsers use information contained in the head to render the HTML document correctly
+
+*What is the first step to designing a Website?*
+
+-Designing a wireframe 
+
