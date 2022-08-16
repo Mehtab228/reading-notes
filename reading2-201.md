@@ -10,7 +10,7 @@
 
 -There are a total of 6 heading elements, each element represents a different level of content in the document; <h1> represents the main heading, <h2> represents subheadings, <h3> represents sub-subheadings, and so on
 
-3.*What are some uses for the <sup> and <sub> elements?*
+3.*What are some uses for the sup and sub elements?*
 
 -You will occasionally need to use superscript and subscript when marking up items like dates, chemical formulae, and mathematical equations so they have the correct meaning. The <sup> and <sub> elements handle this job. 
 
@@ -28,4 +28,18 @@ We use HTML, Hypertext Markup Language, to structure our web documents.
 
 I think Rev. Green did it in the kitchen with the chainsaw.
 
-5.*
+5.*What are ways we can apply CSS to our HTML?*
+
+-with an external stylesheet, with an internal stylesheet, and with inline styles
+
+6.*Why should we avoid using inline styles?*
+
+-First, it is the least efficient implementation of CSS for maintenance. One styling change might require multiple edits within a single web page. Second, inline CSS also mixes (CSS) presentational code with HTML and content, making everything more difficult to read and understand. Separating code and content makes maintenance easier for all who work on the website
+
+7.selector:h2
+
+-CSS declaration: color and padding
+
+-black, 5px
+
+8.*
