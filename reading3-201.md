@@ -36,4 +36,24 @@
 
 ### *Is the people array a valid JavaScript array? If so, how can I access the values stored? If not, why?* ###
 
-- It is a valid array and you would just have to console.log the name of the array to obtain the list of values within the array
+- It is a valid array because you can have an array within an array, you can also have multiple data types within the array. You would just have to console.log the name of the array to obtain the list of values within the array
+
+### *List five shorthand operators for assignment in javascript and describe what they do* ###
+
+-Assignment: x = f() means x = f()
+Addition assignment: x += f() means x = x + f()
+Subtraction assignment: x -= f() means x = x - f()
+Multiplication assignment: x *= f() means x = x* f()
+Division assignment: x /= f() means x = x / f()
+
+### *ead the code below and evaluate the last expression and explain what the result would be and why* ###
+
+-It would not evaluate because false is boolean and the addition operator would not work for it
+
+### *Describe a real world example of when a conditional statement should be used in a JavaScript program* ###
+
+- If you were askig a question and wanted different responses for different answers, for example if you wanted someone to guess a number between 1 and 10 and wanted to give them hints based on their answer. A conditional statement would work well for that
+
+### *Give an example of when a Loop is useful in JavaScript* ###
+
+- If you want to make sure someone acknowledges a user agreement you can make it so the prompt loops until the click yes
