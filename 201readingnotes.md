@@ -12,4 +12,4 @@
 
 [Reading 5](https://mehtab228.github.io/reading-notes/reading5-201)
 
-[Reading 6]()
+[Reading 6](https://mehtab228.github.io/reading-notes/reading6-201)
