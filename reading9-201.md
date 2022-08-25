@@ -29,4 +29,24 @@ The input field for the message is a < textarea >; a multiline text field
 
 - A click on a reset button resets all the form widgets to their default value immediately. From a UX point of view, this is considered bad practice, so you should avoid using this type of button unless you really have a good reason to include one.
 
-- A click on a button button does nothing! That sounds silly, but it's amazingly useful for building custom buttons — you can define their chosen functionality with JavaScript.
+- A click on a button button does nothing! That sounds silly, but it's amazingly useful for building custom buttons — you can define their chosen functionality with JavaScript
+
+### *How would you describe events to a non-technical friend?* ###
+
+-Events are actions or occurrences that happen in the system you are programming, which the system tells you about so your code can react to them
+
+### *When using the addEventListener() method, what 2 arguments will you need to provide?* ###
+
+- that takes at least two arguments: the name of the event and a function to handle the event. So we call the button's addEventListener() method, passing in:
+
+- the string 'click', to indicate that we want to listen to the click event
+
+- a function to call when the event happens. In our case the function generates a random RGB color and sets the page < body > background-color equal to that color
+
+### *Describe the event object. Why is the target within the event object useful?* ###
+
+- Sometimes, inside an event handler function, you'll see a parameter specified with a name such as event, evt, or e. This is called the event object, and it is automatically passed to event handlers to provide extra features and information
+
+### *What is the difference between event bubbling and event capturing?* ###
+
+- Event bubbling and capture are terms that describe phases in how the browser handles events targeted at nested elements
