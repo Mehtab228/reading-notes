@@ -6,17 +6,17 @@
 
 - The first influx of online videos and audio were made possible by proprietary plugin-based technologies like Flash and Silverlight. Both of these had security and accessibility issues, and are now obsolete, in favor of native HTML solutions < video > and < audio > elements and the availability of JavaScript APIs for controlling them. We'll not be looking at JavaScript here — just the basic foundations that can be achieved with HTML
 
-### *Describe the use of the src and controls attributes in the <video> element* ###
+### *Describe the use of the src and controls attributes in the < video > element* ###
 
-- The <video> element allows you to embed a video very easily
+- The < videon> element allows you to embed a video very easily
 
-- In the same way as for the <img> element, the src (source) attribute contains a path to the video you want to embed. It works in exactly the same way
+- In the same way as for the < img > element, the src (source) attribute contains a path to the video you want to embed. It works in exactly the same way
 
 - Users must be able to control video and audio playback (it's especially critical for people who have epilepsy.) You must either use the controls attribute to include the browser's own control interface, or build your interface using the appropriate JavaScript API. At a minimum, the interface must include a way to start and stop the media, and to adjust the volume.
 
-### *Why is it important to have fallback content inside the <video> element* ###
+### *Why is it important to have fallback content inside the < video > element* ###
 
-- The paragraph inside the <video> tags This is called fallback content — this will be displayed if the browser accessing the page doesn't support the <video> element, allowing us to provide a fallback for older browsers. This can be anything you like; in this case, we've provided a direct link to the video file, so the user can at least access it some way regardless of what browser they are using
+- The paragraph inside the < video > tags This is called fallback content — this will be displayed if the browser accessing the page doesn't support the < video > element, allowing us to provide a fallback for older browsers. This can be anything you like; in this case, we've provided a direct link to the video file, so the user can at least access it some way regardless of what browser they are using
 
 ### *How does Grid layout differ from Flex?* ###
 
@@ -37,14 +37,14 @@ The dividing lines that make up the structure of the grid. They can be either ve
 
 - An improvement would be to display a cropped version of the image which displays the important details of the image when the site is viewed on a narrow screen. A second cropped image could be displayed for a medium-width screen device, like a tablet. The general problem whereby you want to serve different cropped images in that way, for various layouts, is commonly known as the art direction problem
 
-### *Define the following <img> attributes srcset and sizes. Write an example of how they are used* ###
+### *Define the following < img > attributes srcset and sizes. Write an example of how they are used* ###
 
-- he standard <img> element traditionally only lets you point the browser to a single source file
+- he standard < img > element traditionally only lets you point the browser to a single source file
 
 - srcset defines the set of images we will allow the browser to choose between, and what size each image is. Each set of image information is separated from the previous one by a comma
 
 - sizes defines a set of media conditions (e.g. screen widths) and indicates what image size would be best to choose, when certain media conditions are true — these are the hints we talked about earlier
 
-###  *How is srcset more helpful for responsive images than CSS or JavaScript?* ###
+### *How is srcset more helpful for responsive images than CSS or JavaScript?* ###
 
 - The srcset and sizes attributes look complicated, but they're not too hard to understand if you format them as shown above, with a different part of the attribute value on each line. Each value contains a comma-separated list, and each part of those lists is made up of three sub-parts
