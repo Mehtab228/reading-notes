@@ -23,3 +23,5 @@
 [reading 10](https://mehtab228.github.io/reading-notes/reading10-201)
 
 [reading 11](https://mehtab228.github.io/reading-notes/reading11-201)
+
+[reading 12](https://mehtab228.github.io/reading-notes/reading12-201)
