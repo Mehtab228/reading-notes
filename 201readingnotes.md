@@ -30,4 +30,4 @@
 
 [Reading 14a](https://mehtab228.github.io/reading-notes/reading%2014a-201)
 
-[Reading 14b]()
+[Reading 14b](https://mehtab228.github.io/reading-notes/reading14b-201)
