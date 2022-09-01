@@ -27,3 +27,7 @@
 [reading 12](https://mehtab228.github.io/reading-notes/reading12-201)
 
 [Reading 13](https://mehtab228.github.io/reading-notes/reading13-201)
+
+[Reading 14a](https://mehtab228.github.io/reading-notes/reading%2014a-201)
+
+[Reading 14b]()
