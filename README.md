@@ -15,7 +15,7 @@
 
 ## 301 notes for readings ##
 
-[301 Reading Notes]()
+[301 Reading Notes](https://mehtab228.github.io/reading-notes/301readingnotes)
 
 # Table of Contents #
 
