@@ -36,4 +36,3 @@
 8. [Control Flow](https://mehtab228.github.io/reading-notes/reading7)
 
 9. [Loops](https://mehtab228.github.io/reading-notes/reading%208)
-
