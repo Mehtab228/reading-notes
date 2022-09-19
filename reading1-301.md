@@ -40,4 +40,4 @@
 
 ### What is the flow of props? ###
 
-- 
+- We use props in React to pass data from one component to another (from a parent component to a child component(s)). Props is just a shorter way of saying properties. They are useful when you want the flow of data in your app to be dynamic.
