@@ -56,4 +56,8 @@ console.log(...[...fruits,'...',...moreFruits]) //  🍑 🍊 🍌 🍉 🍍 ...
 
 ### *In your own words, what does the increment function do?* ###
 
-- 
+- It takes in the person, and the increases the count depending on which name is passed through
+
+### *How can you pass a method from a parent component into a child component?* ###
+
+- You can use this."the name of the method you would like to pass"
