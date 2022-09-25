@@ -43,4 +43,11 @@
 - Efficiency: it is easier to catch mistakes in the making
 - Engaged collaboration: the experience is more engaging and both programmers are more focused than if they were working alone
 
-### *
+### *In your experience, which of these reasons have you found most beneficial?* ###
+
+- Getting the chance to actively used vocab assosiated with coding helps cement some concepts
+
+### *How does pair programming work?* ###
+
+- One person is the navigator and one is the driver. The navigator tells the driver what code to write and about halfway through they switch
+
