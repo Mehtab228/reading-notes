@@ -40,4 +40,10 @@
 
 -yes
 
-###
+### *Did you get your API key3?* ###
+
+-yes
+
+### *Did you get your API key4?* ###
+
+-yes
