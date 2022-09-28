@@ -24,7 +24,7 @@
 
 - A resource has an identifier, which is a URI that uniquely identifies that resource. For example, the URI for a particular customer order might be:
 
-https://adventure-works.com/orders/1
+'https://adventure-works.com/orders/1'
 
 ### *What are the most common HTTP verbs?
 
@@ -36,7 +36,7 @@ https://adventure-works.com/orders/1
 
 ### *Give an example of a good URI
 
-- https://adventure-works.com/orders
+- 'https://adventure-works.com/orders'
 
 ### *What does it mean to have a ‘chatty’ web API? Is this a good or a bad thing?
 
