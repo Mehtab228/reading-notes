@@ -16,4 +16,4 @@
 
 [Reading 7](https://mehtab228.github.io/reading-notes/reading7-301)
 
-[Reading 8]()
+[Reading 8](https://mehtab228.github.io/reading-notes/reading8-301)
