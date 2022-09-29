@@ -27,4 +27,14 @@
 
 - Basically, if a function consistently yields the same result for the same input, it is referentially transparent
 
-### *
+### *What is a module?
+
+- Modules are small units of independent, reusable code that is desired to be used as the building blocks in creating a non-trivial Javascript application
+
+### *What does the word ‘require’ do?
+
+- require() statement basically reads a JavaScript file, executes it, and then proceeds to return the export object. require() statement not only allows to add built-in core NodeJS modules but also community-based and local modules
+
+### *How do we bring another module into the file the we are working in?
+
+- As we have learned in the previous example, we can’t access the functions defined in one module in another module by default. To access the module functions, we have to export the functions and import them in the file we want to call the functions
