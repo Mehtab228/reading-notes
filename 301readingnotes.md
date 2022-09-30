@@ -20,4 +20,4 @@
 
 [Reading 9](https://mehtab228.github.io/reading-notes/reading9-301)
 
-[Reading 11]()
+[Reading 11](https://mehtab228.github.io/reading-notes/reading11-301)
