@@ -34,4 +34,38 @@
 
 - 403 Forbidden - The client has authorized or doesn’t need to authorize itself, but still has no permissions to access the resource
 
-### *
+### *Why do we need to pull our MongoDB database string out of our server and put it into our .env?
+
+- Because we won't be always running our backend on localhost
+
+### *What is middleware?
+
+- Middleware is code that runs when a server gets a request but before it gets passed
+
+### *What does app.use(express.json()) do??
+
+- Server accepts JSON as a body instead of a post element
+
+### *What does the /:id mean in a route?
+
+- it signifies that it is a paramter
+
+### *What is the difference between PUT and PATCH?
+
+- Path updates only based on what the user passes in, put updates all of the information rather than just what is passed in
+
+### *How do you make a default value in a schema?
+
+- You just typer default as a property and uses that if the user doesnt pass in the specific information
+
+### *What does a 500 error status code mean?
+
+- The HyperText Transfer Protocol (HTTP) 500 Internal Server Error server error response code indicates that the server encountered an unexpected condition that prevented it from fulfilling the request
+
+### *What is the difference between a status 200 and a status 201?
+
+- 200 - OK:
+The 200 status code is by far the most common returned. It means, simply, that the request was received and understood and is being processed.
+
+- 201 - Created:
+A 201 status code indicates that a request was successful and as a result, a resource has been created (for example a new page).
