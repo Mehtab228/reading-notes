@@ -4,4 +4,6 @@
 
 [SQL Basics](https://mehtab228.github.io/reading-notes/SQLBasics)
 
-[Fun With Terminals]()
+[Fun With Terminals](https://mehtab228.github.io/reading-notes/FunWithTerminals)
+
+[Reading 1]()
