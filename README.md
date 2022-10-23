@@ -19,7 +19,7 @@
 
 ## 401 notes for readings ##
 
-[401 Reading Notes]()
+[401 Reading Notes](https://mehtab228.github.io/reading-notes/401readingnotes)
 
 # Table of Contents #
 

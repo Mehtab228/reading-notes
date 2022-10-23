@@ -2,4 +2,4 @@
 
 ## Table of contents ##
 
-[SQL Basics]()
+[SQL Basics](https://mehtab228.github.io/reading-notes/SQLBasics)
