@@ -17,6 +17,10 @@
 
 [301 Reading Notes](https://mehtab228.github.io/reading-notes/301readingnotes)
 
+## 401 notes for readings ##
+
+[401 Reading Notes]()
+
 # Table of Contents #
 
 1. [What is a Growth Mindset](https://mehtab228.github.io/reading-notes/growth-mindset)
