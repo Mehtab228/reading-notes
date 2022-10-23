@@ -6,6 +6,6 @@
 
 [Fun With Terminals](https://mehtab228.github.io/reading-notes/FunWithTerminals)
 
-[Emotional EQ]()
+[Emotional EQ](https://mehtab228.github.io/reading-notes/emotionalEq)
 
 [Reading 1](https://mehtab228.github.io/reading-notes/reading1-401)
