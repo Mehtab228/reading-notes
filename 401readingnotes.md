@@ -10,8 +10,8 @@
 
 [Reading 1](https://mehtab228.github.io/reading-notes/reading1-401)
 
-[Engineering Readings]()
+[Engineering Readings](https://mehtab228.github.io/reading-notes/engineeringReadings)
 
-[Data Structures and Algorithms]()
+[Data Structures and Algorithms](https://mehtab228.github.io/reading-notes/dataStructures)
 
-[Reading 2]()
+[Reading 2](https://mehtab228.github.io/reading-notes/reading2-401)
