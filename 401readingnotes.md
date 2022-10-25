@@ -9,3 +9,9 @@
 [Emotional EQ](https://mehtab228.github.io/reading-notes/emotionalEq)
 
 [Reading 1](https://mehtab228.github.io/reading-notes/reading1-401)
+
+[Engineering Readings]()
+
+[Data Structures and Algorithms]()
+
+[Reading 2]()
